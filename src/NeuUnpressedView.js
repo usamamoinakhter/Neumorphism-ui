@@ -5,8 +5,8 @@ export default class NeuUnpressedView extends Component {
     render() {
         return (
             <View style={[styles.container, this.props.containerStyle]}>
-                <View style={[styles.startShadow, this.props.style, { height: this.props.style.height ? this.props.style.height - 15 : 50 }]}>
-                    <View style={[styles.endShadow, this.props.style, this.props.contentStyle, { height: this.props.style.height ? this.props.style.height - 15 : 50 }]}>
+                <View style={[styles.startShadow, this.props.style, { height: this.props.style?this.props.style.height ? this.props.style.height - 15 : 50:50 }]}>
+                    <View style={[styles.endShadow, this.props.style, this.props.contentStyle, { height:this.props.style? this.props.style.height ? this.props.style.height - 15 : 50:50 }]}>
                         {this.props.children}
                     </View>
                 </View>

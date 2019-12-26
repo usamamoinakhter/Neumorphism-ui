@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "neumorphism-ui": "file:../neumorphism-ui-1.0.0.tgz",
+    "neumorphism-ui": "file:../neumorphism-ui-1.0.1.tgz",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
