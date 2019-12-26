@@ -1,5 +1,5 @@
-# rn-custom-toast
- Module for react-native to show android like toast messages on both Android and iOS with customisations.
+# neumorphism-ui
+ React Native components based on the concept of Neumorphism (iOS only)
  ![NPM Version](https://img.shields.io/npm/v/neumorphism-ui.svg?style=popout-square&color=blue)  ![Repo Size](https://img.shields.io/github/repo-size/usamamoinakhter/neumorphism-ui.svg?style=popout-square&color=blue)  ![Downloads](https://img.shields.io/npm/dw/neumorphism-ui.svg?color=blue&style=popout-square)
 ![roundCube Labs](https://img.shields.io/badge/Package%20By-roundCubeLabs-blue.svg?style=popout-square)
 
