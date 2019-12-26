@@ -1,0 +1,34 @@
+{
+  "name": "neumorphism-ui",
+  "version": "1.0.0",
+  "description": "React Native components based on the concept of Neumorphism",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamamoinakhter/Neumorphism-ui.git"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neumorphism",
+    "skeuomorphism",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "framework",
+    "neu",
+    "morphism"
+  ],
+  "author": "roundCube Labs",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  }
+}
